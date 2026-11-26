@@ -1,0 +1,7 @@
+{
+  "name": "taller/api-jwt-php",
+  "description": "API basica con JWT en PHP nativo",
+  "require": {
+    "firebase/php-jwt": "^6.10"
+  }
+}
